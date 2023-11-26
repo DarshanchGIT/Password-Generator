@@ -12,8 +12,8 @@ Do Check it out: [here](https://darshanchgit.github.io/Password-Generator/).
 
 ## How to Use
 
-1. Open the 🌐 `index.html` file in your preferred web browser.
-2. Set the desired options for your password.
+1. Open the <a href="https://darshanchgit.github.io/Simple-Calculator/" target="_blank" rel="noopener noreferrer">Password Generator</a> in your web browser.
+2. Check the desired checkboxes for your password.
 3. Click the "Generate Password" 🔄 button.
 4. Your secure password will be displayed in the designated area.
 5. Click "Copy to Clipboard" 📋 to easily use the generated password.
