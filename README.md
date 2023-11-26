@@ -12,7 +12,7 @@ This is a simple yet powerful password generator written in JavaScript. It allow
 
 ## How to Use
 
-1. Open the <a href="https://darshanchgit.github.io/Simple-Calculator/" target="_blank" rel="noopener noreferrer">Password Generator</a> in your web browser.
+1. Open the <a href="https://darshanchgit.github.io/Password-Generator/" target="_blank" rel="noopener noreferrer">Password Generator</a> in your web browser.
 2. Check the desired checkboxes for your password.
 3. Click the "Generate Password" 🔄 button.
 4. Your secure password will be displayed in the designated area.
