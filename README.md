@@ -3,7 +3,7 @@
 ## Description
 
 This is a simple yet powerful password generator written in JavaScript. It allows you to create secure and unique passwords with various customization options.
-Do Check it out: [here](https://darshanchgit.github.io/Password-Generator/).
+
 ## Features
 
 - **Password Length:** Choose the length of your password.
